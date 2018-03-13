@@ -1,0 +1,2 @@
+var norway = [];
+var canada = [];
